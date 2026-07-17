@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Basmala 👋
 
-<!--
-**basmalah-2006/basmalah-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AI Engineer in the Making
+Passionate about building intelligent systems and turning data into real-world solutions. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I'm Working On
+-  Completing the **12-Week AI Industry Roadmap** (Helwan Career Center)
+-  Building hands-on projects using **Hugging Face**, **Python**, and modern AI tooling
+-  Growing this repo weekly as my **AI Engineering Portfolio**
+
+---
+
+### 🛠️ Tech Stack & Tools
+**Languages:** Python | SQL  
+**Libraries:** Transformers | PyTorch | NumPy | Pandas | Requests  
+**Tools:** Git & GitHub | VS Code 
+**Platforms:** Hugging Face Hub | REST APIs
+
+---
+
+> *"The best way to predict the future is to build it."* — Abraham Lincoln
