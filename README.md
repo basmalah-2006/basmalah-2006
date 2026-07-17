@@ -15,7 +15,7 @@ Passionate about building intelligent systems and turning data into real-world s
 ### 🛠️ Tech Stack & Tools
 **Languages:** Python | SQL  
 **Libraries:** Transformers | PyTorch | NumPy | Pandas | Requests  
-**Tools:** Git & GitHub | VS Code 
+**Tools:** Git & GitHub | VS Code | Jupyter | Google Colab
 **Platforms:** Hugging Face Hub | REST APIs
 
 ---
